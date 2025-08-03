@@ -1,4 +1,4 @@
-# 🦢 Eala-Dun-Eideann
+# 🦢 Eala Dun Eideann
 ## 🎯 Objective <br>
 This project showcases the cultural and historical heritage of Scotland through a multimedia website combined with an interactive map, blending journalism, photography, and Google Maps. <p>
 ## 🛠️ Tools <br>
