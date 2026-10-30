@@ -2,7 +2,7 @@
 ## 🎯 Objective <br>
 This project showcases the cultural and historical heritage of Scotland through a multimedia website combined with an interactive map, blending journalism, photography, and Google Maps. <p>
 ## 🛠️ Tools <br>
-• Google Blogspot, Google Maps <p>
+Google Blogspot, Google Maps <p>
 ## 🌐 Blogspot <br>
 This project is a fully functional blogspot available at the following link: [View Blogspot](https://ealaduneideann.blogspot.com/) <p>
 ![me](https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/5ea65e32b9f715c23775afacc356a4201f81a6ae/Eala_Dun_Eideann_Blog.png)
