@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🦢 Eala Dun Eideann</h1>
@@ -25,7 +24,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project showcases the cultural and historical
@@ -36,7 +36,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> Google Blogspot, Google Maps
@@ -44,7 +45,8 @@
 
 <hr>
 
-<h2 id="articles">📰 Articles</h2>
+<a name="articles"></a>
+<h2>📰 Articles</h2>
 
 <ul>
   <li>Eric Liddell’s Centenarian Legacy of Inspiration at The Eric Liddell Community</li>
@@ -56,7 +58,8 @@
 
 <hr>
 
-<h2 id="website">🌐 Website</h2>
+<a name="website"></a>
+<h2>🌐 Website</h2>
 
 <p>
   <a href="https://ealaduneideann.blogspot.com/">
@@ -64,7 +67,8 @@
   </a>
 </p>
 
-<h2 id="map">🗺️ Map</h2>
+<a name="map"></a>
+<h2>🗺️ Map</h2>
 
 <p>
   <a href="https://maps.app.goo.gl/4zdEjw6ytKLdveuUA">
@@ -74,16 +78,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>Eala Dun Eideann Website</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Blog.png">
+      <a href="5_Blogspot/Eala_Dun_Eideann_Blogspot.png">
         <img
-          src="Eala_Dun_Eideann_Blog.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Eala-Dun-Eideann/main/5_Blogspot/Eala_Dun_Eideann_Blogspot.png"
           alt="Eala Dun Eideann website screenshot"
           width="100%"
         />
@@ -97,9 +102,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Map_Color.png">
+      <a href="5_Blogspot/Eala_Dun_Eideann_Map_Color.png">
         <img
-          src="Eala_Dun_Eideann_Map_Color.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Eala-Dun-Eideann/main/5_Blogspot/Eala_Dun_Eideann_Map_Color.png"
           alt="Eala Dun Eideann interactive map screenshot"
           width="100%"
         />
