@@ -17,6 +17,7 @@
 <ul>
   <li><a href="#objective">Objective</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#articles">Articles</a></li>
   <li><a href="#website">Website</a></li>
   <li><a href="#map">Map</a></li>
   <li><a href="#images">Images</a></li>
@@ -43,15 +44,7 @@
 
 <hr>
 
-<h2 id="website">🌐 Website</h2>
-
-<p>
-  <a href="https://ealaduneideann.blogspot.com/">
-    View Website
-  </a>
-</p>
-
-<h3>Articles</h3>
+<h2 id="articles">📰 Articles</h2>
 
 <ul>
   <li>Eric Liddell’s Centenarian Legacy of Inspiration at The Eric Liddell Community</li>
@@ -62,6 +55,14 @@
 </ul>
 
 <hr>
+
+<h2 id="website">🌐 Website</h2>
+
+<p>
+  <a href="https://ealaduneideann.blogspot.com/">
+    View Website
+  </a>
+</p>
 
 <h2 id="map">🗺️ Map</h2>
 
